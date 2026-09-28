@@ -1,6 +1,6 @@
 
 "use client";
-
+import Link from "next/link";
 import { useMemo, useState } from "react";
 
 const documents = [
@@ -213,14 +213,14 @@ export default function DemoPage() {
 
       <div className="flex min-h-screen">
         <aside className="hidden w-64 shrink-0 border-r border-stone-200 bg-white p-6 md:block">
-          <a href="/" className="mb-10 block">
+          <Link href="/" className="mb-10 block">
             <div className="text-2xl font-bold tracking-tight text-emerald-900">
               LegalEase<span className="text-amber-600">.</span>
             </div>
             <p className="mt-1 text-xs text-stone-500">
               Legal documents, simplified
             </p>
-          </a>
+          </Link>
 
           <p className="mb-3 text-xs font-semibold uppercase tracking-widest text-stone-400">
             Workspace
