@@ -1,0 +1,18 @@
+'use client';
+
+import { motion } from 'framer-motion';
+import { ArrowRight, CheckCircle2, FileText, LockKeyhole, Sparkles, WandSparkles } from 'lucide-react';
+import Link from 'next/link';
+import { Button } from '@/components/ui/button';
+
+export function HeroVisual() {
+  return <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: .7 }} className="relative mx-auto w-full max-w-[540px]"><div className="absolute -inset-8 rounded-[3rem] bg-gold/15 blur-3xl" /><div className="relative overflow-hidden rounded-[2rem] border border-white/60 bg-card shadow-[0_30px_80px_rgba(19,39,34,.18)] dark:border-border"><div className="flex items-center justify-between border-b border-border px-5 py-4"><div className="flex items-center gap-2"><span className="flex h-7 w-7 items-center justify-center rounded-lg bg-forestDeep text-white"><FileText className="h-3.5 w-3.5" /></span><span className="text-xs font-bold">Mutual NDA</span></div><span className="rounded-full bg-emerald-50 px-2 py-1 text-[10px] font-bold text-emerald-700">Draft ready</span></div><div className="space-y-5 p-6 sm:p-8"><div className="h-3 w-3/4 rounded-full bg-forestDeep/80" /><div className="space-y-2"><div className="h-2 w-full rounded-full bg-muted/15" /><div className="h-2 w-11/12 rounded-full bg-muted/15" /><div className="h-2 w-4/5 rounded-full bg-muted/15" /></div><div className="h-2 w-1/3 rounded-full bg-forest/60" /><div className="space-y-2"><div className="h-2 w-full rounded-full bg-muted/15" /><div className="h-2 w-10/12 rounded-full bg-muted/15" /><div className="h-2 w-3/4 rounded-full bg-muted/15" /></div><div className="rounded-2xl border border-forest/15 bg-forest/5 p-4"><div className="flex items-center gap-2 text-xs font-bold text-forest"><Sparkles className="h-4 w-4" /> AI review complete</div><div className="mt-3 space-y-2"><div className="flex gap-2 text-[11px] text-muted"><CheckCircle2 className="h-3.5 w-3.5 shrink-0 text-emerald-500" /> 3 clauses need a closer look</div><div className="flex gap-2 text-[11px] text-muted"><CheckCircle2 className="h-3.5 w-3.5 shrink-0 text-emerald-500" /> Missing information highlighted</div></div></div><div className="flex items-center justify-between border-t border-border pt-4"><span className="text-[10px] text-muted">Last saved just now</span><span className="flex items-center gap-1 text-[10px] font-bold text-forest"><LockKeyhole className="h-3 w-3" /> Private workspace</span></div></div></div><motion.div animate={{ y: [0, -8, 0] }} transition={{ repeat: Infinity, duration: 4 }} className="absolute -bottom-5 -left-5 flex items-center gap-2 rounded-2xl border border-border bg-card px-3 py-2.5 shadow-soft"><span className="flex h-8 w-8 items-center justify-center rounded-xl bg-gold/20 text-gold"><WandSparkles className="h-4 w-4" /></span><div><p className="text-[10px] font-bold">Plain English</p><p className="text-[10px] text-muted">Clause explained</p></div></motion.div></motion.div>;
+}
+
+export function SectionHeading({ eyebrow, title, description, align = 'left' }: { eyebrow: string; title: string; description?: string; align?: 'left' | 'center' }) {
+  return <div className={align === 'center' ? 'mx-auto max-w-2xl text-center' : 'max-w-2xl'}><p className="eyebrow">{eyebrow}</p><h2 className="mt-3 font-display text-3xl tracking-tight sm:text-4xl">{title}</h2>{description ? <p className="mt-4 text-base leading-7 text-muted">{description}</p> : null}</div>;
+}
+
+export function PrimaryCta() {
+  return <Link href="/register"><Button size="lg">Start drafting free <ArrowRight className="h-4 w-4" /></Button></Link>;
+}

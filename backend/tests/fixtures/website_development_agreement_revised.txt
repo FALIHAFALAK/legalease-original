@@ -1,0 +1,131 @@
+WEBSITE DEVELOPMENT AGREEMENT
+
+This Website Development Agreement (the "Agreement") is entered into as of 1 March 2026
+(the "Effective Date") between Brightlane Digital Ltd, a company incorporated in England and
+Wales ("Agency"), and Harborline Trading Co ("Client").
+
+1. Scope of Services
+
+1.1 The Agency shall design, develop, and deliver a marketing website for the Client, including
+up to eight (8) unique page templates, a responsive design for desktop and mobile devices, and
+integration with the Client's existing content management system.
+
+1.2 The Agency shall deliver the website within twelve (12) weeks of the Effective Date.
+
+1.3 Any work requested by the Client that falls outside the scope described in clause 1.1 shall
+be treated as an additional service. The Agency is not obliged to begin any additional work until
+the parties have agreed the additional fees in writing.
+
+1.4 The parties may from time to time agree written amendments to the scope of services. Any
+amendment shall take effect only once signed by an authorised representative of each party.
+
+2. Fees and Payment
+
+2.1 The Client shall pay the Agency a total fixed fee of GBP 45,000 (the "Fee") for the services.
+
+2.2 The Fee is invoiced in three equal instalments. The first instalment is payable on the
+Effective Date, the second on delivery of the design stage, and the third on final launch.
+
+2.3 The Client shall pay each invoice within thirty (30) days of the invoice date.
+
+2.4 Invoices are exclusive of value added tax, which shall be added at the prevailing rate.
+
+2.5 The Agency may charge interest on overdue amounts at 4% above the Bank of England base rate,
+accruing daily from the due date until payment is received in full.
+
+2.6 Fees for additional services are payable within thirty (30) days of the Agency's invoice.
+
+3. Intellectual Property
+
+3.1 On payment in full of the Fee, the Agency assigns to the Client all intellectual property
+rights in the deliverables created specifically for the Client under this Agreement, excluding
+the background materials described in clause 3.2.
+
+3.2 The Agency retains ownership of its pre-existing materials, tools, libraries, and know-how,
+including any generic code, design patterns, and internal frameworks used to produce the
+deliverables ("Agency Materials"). The Agency grants the Client a perpetual, non-exclusive,
+royalty-free, worldwide licence to use, copy, and modify the Agency Materials to the extent they
+are embedded in or required for the operation of the deliverables.
+
+3.3 Third-party fonts, images, and stock photography remain subject to their original licence
+terms. The Agency shall identify in writing each such item that is licensed on a non-transferable
+basis, and the Client shall be responsible for obtaining any extended licence it requires.
+
+4. Client Obligations
+
+4.1 The Client shall provide the Agency with timely access to the personnel, materials, and
+approvals reasonably required to perform the services. Where the Agency's delivery timetable is
+delayed by the Client's failure to provide any required input, the Agency may extend the timetable
+by the period of the delay without further charge.
+
+4.2 The Client shall appoint a single point of contact who is authorised to provide approvals and
+instructions on behalf of the Client. The Agency is entitled to rely on any instruction given by
+the named contact as a binding instruction of the Client.
+
+4.3 The Client warrants that it holds all rights necessary to supply the materials it provides to
+the Agency, and that such materials do not infringe the rights of any third party.
+
+5. Warranties and Liability
+
+5.1 The Agency warrants that the services will be performed with reasonable skill and care.
+
+5.2 The Agency does not warrant that the website will achieve any particular volume of traffic,
+revenue, ranking, or commercial result.
+
+5.3 The Agency's aggregate liability under this Agreement is limited to the greater of the total
+fees paid by the Client in the six (6) months preceding the claim or GBP 100,000.
+
+5.4 Neither party is liable for loss of profit, loss of business, loss of anticipated savings, or
+any indirect or consequential loss, in each case whether or not foreseeable.
+
+5.5 The limitations in clauses 5.3 and 5.4 do not apply to fraud, fraudulent misrepresentation,
+death or personal injury caused by negligence, or any other liability that cannot lawfully be
+limited.
+
+6. Term and Termination
+
+6.1 This Agreement commences on the Effective Date and continues until all services have been
+delivered and the Fee has been paid in full.
+
+6.2 The Client may terminate this Agreement on thirty (30) days written notice. The Agency may
+terminate this Agreement on thirty (30) days written notice if the Client fails to pay any
+invoice and does not cure the failure within fifteen (15) days of written notice of the
+non-payment.
+
+6.3 On termination the Client shall pay for all work performed up to the date of termination,
+including work in progress and any non-cancellable third-party commitments.
+
+6.4 Termination does not affect any rights or liabilities that have accrued before termination.
+
+6.5 Clauses 3, 5, 7, and 8 survive termination of this Agreement.
+
+7. Confidentiality
+
+7.1 Each party shall keep confidential all information disclosed to it by the other party that is
+marked as confidential or that ought reasonably to be treated as confidential.
+
+7.2 The obligations in clause 7.1 do not apply to information that is or becomes public through no
+fault of the receiving party, was already known to the receiving party, or is independently
+developed without use of the disclosing party's information.
+
+8. Governing Law
+
+8.1 This Agreement is governed by the laws of England and Wales, and the parties submit to the
+exclusive jurisdiction of the courts of England and Wales.
+
+9. Dispute Resolution
+
+9.1 The parties shall attempt in good faith to resolve any dispute by negotiation between named
+senior representatives within thirty (30) days of written notice of the dispute.
+
+9.2 Either party may commence proceedings in respect of a dispute at any time.
+
+10. Entire Agreement
+
+10.1 This Agreement constitutes the entire agreement between the parties and supersedes all prior
+drafts, proposals, and understandings relating to its subject matter.
+
+10.2 No variation of this Agreement is effective unless in writing and signed by both parties.
+
+SIGNED for and on behalf of the Agency: ____________________
+SIGNED for and on behalf of the Client: ____________________
