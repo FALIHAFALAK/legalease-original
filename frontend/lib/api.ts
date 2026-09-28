@@ -2,7 +2,7 @@ function resolveApiUrl(): string {
   const configured = process.env.NEXT_PUBLIC_API_URL?.trim();
   if (typeof window !== 'undefined') {
     const currentHost = window.location.hostname;
-    if (!configured) return `${window.location.protocol}//${currentHost}:8000`;
+    if (!configured) return "https://legalease-omega-five.vercel.app";
     try {
       const parsed = new URL(configured);
       if (['localhost', '127.0.0.1', '[::1]'].includes(parsed.hostname)) {
